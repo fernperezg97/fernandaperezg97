@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning... **Python, Java, DevOps, and web design.**
 
-- 👨‍💻 My current project video rundown is available here: (https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)[Choro-Tracker Full-Stack Project YouTube Video]
+- 👨‍💻 My current project video rundown is available here: [Choro-Tracker Full-Stack Project YouTube Video](https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)
 
 - 📫 How to reach me... **fernanda.perez.gutierrez2@gmail.com**
 
