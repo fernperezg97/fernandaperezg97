@@ -9,7 +9,7 @@
 
 - 📫 How to reach me... **fernanda.perez.gutierrez2@gmail.com**
 
-- ⚡ Fun fact... **I blog about cruelty-free/sustainable beauty and fashion at www.glossibly.com, I'm vegan, and I have a mini Aussie name Kovu!**<br><br/>
+- ⚡ Fun fact... **I blog about cruelty-free/sustainable beauty and fashion at www.glossibly.com, I'm vegan, and I have a mini Aussie fur baby named Kovu (his name is from Lion King II)!**<br><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
