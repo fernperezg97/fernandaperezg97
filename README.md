@@ -1,15 +1,15 @@
-<h1 align="center">Hola, amigos! 👋 I'm Fernanda!</h1>
+<h1 align="center">¡Hola, amigos! 👋 I'm Fernanda!</h1>
 <h3 align="center">A driven, first-gen Latina full-stack developer from Minneapolis, MN</h3><br>
 
-- 🔭 I’m currently working on... **transitioning to tech!**
+- 🔭 I’m currently working on... **collaborating on a passion project with two other Latina devs, a portfolio website, and a library app.**
 
-- 🌱 I’m currently learning... **Python, Java, DevOps, and web design.**
+- 🌱 I’m currently learning... **mathematics for machine learning and data science.**
 
 - 👨‍💻 My current project video rundown is available here: [Choro-Tracker Full-Stack Project YouTube Video](https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)
 
 - 📫 How to reach me... **fernanda.perez.gutierrez2@gmail.com**
 
-- ⚡ Fun fact... **I blog about cruelty-free/sustainable beauty and fashion at www.glossibly.com!**<br><br/>
+- ⚡ Fun fact... **I blog about cruelty-free/sustainable beauty and fashion at www.glossibly.com, I'm vegan, and I have a mini Aussie name Kovu!**<br><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
