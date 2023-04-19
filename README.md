@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, amigos! 👋 I'm Fernanda!</h1>
-<h3 align="center">A driven, first-gen Latina full-stack developer from Minneapolis, MN</h3><br>
+<h3 align="center">A driven, first-gen Latina software engineer from Minneapolis, MN changing the ratio in tech.</h3><br>
 
 - 👨‍💻 I’m currently working on... **collaborating on a passion project with two other Latina devs, a website portfolio, and a library app.**
 
