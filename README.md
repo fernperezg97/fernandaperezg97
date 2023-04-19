@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning... **mathematics for machine learning and data science, AWS SES & SDK, and Node.js.**
 
-- 🎬 My current project video rundown is available here: [Choro-Tracker Full-Stack Project YouTube Video](https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)
+- 🎬 My Choro-Tracker app video rundown is available here: [Choro-Tracker Full-Stack Project YouTube Video](https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)
 
 - 📧 How to reach me... **fernanda.perez.gutierrez2@gmail.com**
 
