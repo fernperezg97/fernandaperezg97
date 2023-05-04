@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola, amigos! 👋 I'm Fernanda!</h1>
 <h3 align="center">A driven, first-gen Latina software engineer from Minneapolis, MN changing the tech ratio 💪</h3><br>
 
-- 👨‍💻 I’m currently working on... **collaborating on a passion project with two other Latina devs, a portfolio website, and a library app.**
+- 👨‍💻 I’m currently working on... **collaborating on an open-source project with other Latina devs, a portfolio website, and automating/revamping a client's website!**
 
-- 🌱 I’m currently learning... **mathematics for machine learning and data science, AWS SES & SDK, and Node.js.**
+- 🌱 I’m currently learning... **mathematics for machine learning and data science, AWS SES & SDK, React, and Node.js.**
 
 - 🎬 My Choro-Tracker app video rundown is available here: **[Choro-Tracker Full-Stack Project YouTube Video](https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)**
 
