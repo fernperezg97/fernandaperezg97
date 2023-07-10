@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, amigos! 👋 I'm Fernanda!</h1>
 <h3 align="center">A driven, first-gen Latina software engineer from Minneapolis, MN changing the tech ratio 💪</h3><br>
 
-- 👨‍💻 I’m currently working on... **collaborating on an open-source project with other Latina devs, a portfolio website, and automating/revamping a client's website!**
+- 👨‍💻 I’m currently working on... **Code the Dream's Advanced React course, collaborating on an open-source project with other Latina devs, a portfolio website, and automating/revamping a client's website!**
 
 - 🌱 I’m currently learning... **mathematics for machine learning and data science, AWS SES & SDK, React, and Node.js.**
 
