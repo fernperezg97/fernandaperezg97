@@ -1,7 +1,11 @@
 <h1 align="center">¡Hola, amigos! 👋 I'm Fernanda!</h1>
-<h3 align="center">A driven, first-gen Latina software developer from Minneapolis, MN changing the tech ratio 💪</h3><br>
+<h3 align="center">A driven, first-gen Latina software developer from Minneapolis, MN changing the tech ratio</h3><br>
 
-- 👨‍💻 I’m currently working on... **helping to prevent heritage language loss by working alongside other talented team members to develop the 'Bili App' at Bilingual Generation!**
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFib3Njc2c1NWNyMnZ2NjhkdjdyaDhsanIxMjF0c3Flb3R2a3U2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUCzisVC4gtXUVYeop/giphy.gif" alt="GIF">
+</div><br>
+
+- 👩🏻‍💻 I’m currently working on... **helping to prevent heritage language loss by working alongside other talented team members to develop the 'Bili App' at Bilingual Generation!**
 
 - 🌱 I’m currently learning... **AWS (studying to obtainer my AWS Cloud Practioner Certification), CS50 at Harvard, mathematics for machine learning and data science, and internationalization.**
 
