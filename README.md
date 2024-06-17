@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, amigos! 👋 I'm Fernanda!</h1>
+<h1 align="center">¡Hola, amigos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" /> I'm Fernanda!</h1>
 <h3 align="center">A driven, first-gen Latina software developer from Minneapolis, MN changing the tech ratio</h3><br>
 
 <div align="center">
