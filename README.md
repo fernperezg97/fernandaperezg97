@@ -3,9 +3,7 @@
 
 - 👨‍💻 I’m currently working on... **helping to prevent heritage language loss by working alongside other talented team members to develop the 'Bili App' at Bilingual Generation!**
 
-- 🌱 I’m currently learning... **CS50 at Harvard, mathematics for machine learning and data science, AWS, and internationalization.**
-
-- 🎬 My Choro-Tracker app video rundown is available here: **[Choro-Tracker Full-Stack Project YouTube Video](https://www.youtube.com/watch?v=jiTDTXMDScg&ab_channel=FernandaP%C3%A9rezGuti%C3%A9rrez)**
+- 🌱 I’m currently learning... **AWS (studying to obtainer my AWS Cloud Practioner Certification), CS50 at Harvard, mathematics for machine learning and data science, and internationalization.**
 
 - 📧 How to reach me... **fernanda.perez.gutierrez2@gmail.com**
 
